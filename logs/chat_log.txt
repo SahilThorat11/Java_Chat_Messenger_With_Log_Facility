@@ -1,0 +1,7 @@
+
+Client : Hi
+Server : Hello
+Client : How are You
+Server : I am fine, What about you
+Client : fine
+Server : Have a good day
