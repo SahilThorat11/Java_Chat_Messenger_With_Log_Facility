@@ -32,7 +32,7 @@ class Server
 
         String str1, str2;
 
-        System.out.println("Marvellous Chat Messenger application Started..");
+        System.out.println("Chat Messenger application Started..");
 
         // Continuous communication loop
         try
@@ -65,6 +65,6 @@ class Server
         sobj.close();
         ssobj.close();
 
-        System.out.println("Thank you for using Marvellous Chat Application..");
+        System.out.println("Thank you for using Chat Application..");
     }
 }

@@ -23,7 +23,7 @@ class Client
 
         String str1, str2;
 
-        System.out.println("Marvellous Chat Messenger application Started..");
+        System.out.println("Chat Messenger application Started..");
 
         // Client continues sending messages until "end"
         while(!(str1 = br2.readLine()).equals("end"))
@@ -38,6 +38,6 @@ class Client
             System.out.println("Enter the message for server : ");
         }
 
-        System.out.println("Thank you for using Marvellous Chat Application..");
+        System.out.println("Thank you for using Chat Application..");
     }
 }
